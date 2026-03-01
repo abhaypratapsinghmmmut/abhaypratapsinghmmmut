@@ -18,11 +18,30 @@
 
 # 🌈 Executive Summary
 
-- [cite_start]🎓 **B.Tech in Computer Science & Engineering** at **MMMUT** with a **8.59 CGPA**[cite: 8, 9].
-- [cite_start]🏆 **Hackathon Leadership**: Led a 6-member team for **Monastery360**, a digital heritage platform for Sikkim, during **Smart India Hackathon 2025**[cite: 13, 18].
-- [cite_start]💡 **Problem Solver**: Solved **900+ DSA problems** across LeetCode, GFG, CodeChef, and Codeforces[cite: 32].
-- [cite_start]📈 **Competitive Excellence**: Achieved **Top 1.6%** finish in CodeChef Starters 221 and ranked **863/37,000+** in Starters 208[cite: 28, 29].
-- [cite_start]🤖 **AI Specialist**: Experienced in integrating **Gemini** and **Cohere AI** APIs for semantic analysis and real-time knowledge retrieval[cite: 21, 24].
+- [cite_start]🎓 **B.Tech in Computer Science & Engineering** at **MMMUT** (8.59 CGPA)[cite: 9].
+- [cite_start]🏆 **Hackathon Leadership**: Led a 6-member team for **Monastery360** (SIH 2025)[cite: 18].
+- [cite_start]💡 **Problem Solver**: Successfully solved **900+ DSA problems** across multiple platforms[cite: 32].
+- [cite_start]📈 **Competitive Excellence**: Achieved **Top 1.6%** in CodeChef Starters 221[cite: 28].
+- [cite_start]🤖 **AI Integration**: Proficient in **Gemini** and **Cohere AI** API implementation[cite: 21, 24].
+
+---
+
+### 🏆 Coding Profile & Milestones
+
+<p align="center">
+  <a href="https://www.codechef.com/users/abhaypratapsinghmmmut">
+    <img src="https://img.shields.io/badge/CodeChef-3%E2%98%85-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/abhaypratapsinghmmmut">
+    <img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Total%20DSA-900%2B%20Solved-blue?style=for-the-badge&logo=data-structures-and-algorithms&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=abhaypratapsinghmmmut&theme=dark" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/CodeChef%20Best%20Rank-859-rebeccapurple?style=for-the-badge&logo=codechef" />
+</p>
 
 ---
 
@@ -49,22 +68,6 @@
 </p>
 
 <p align="left">
-  <strong>📊 Data Science & ML</strong><br>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="left">
-  <strong>📚 CS Fundamentals</strong><br>
-  <img src="https://img.shields.io/badge/Data_Structures-FFCA28?style=for-the-badge&logo=codeforces&logoColor=black" />
-  <img src="https://img.shields.io/badge/Operating_Systems-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-<p align="left">
   <strong>🛠 Tools & DevOps</strong><br>
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -77,35 +80,22 @@
 
 ### 🚀 Featured Projects
 
-#### 🏔️ [Monastery360](https://github.com/abhaypratapsinghmmmut) (Smart India Hackathon 2025)
-* [cite_start]**Lead Developer**: Led a 6-member team to build a digital tourism platform for Sikkim's heritage[cite: 18].
-* [cite_start]**Tech Stack**: MERN (MongoDB, Express, React, Node) + **Gemini API** for AI content generation[cite: 19, 21].
-* [cite_start]**Innovation**: Implemented secure RESTful APIs and real-time knowledge retrieval features[cite: 20, 21].
+#### 🏔️ [Monastery360](https://github.com/abhaypratapsinghmmmut) (SIH 2025)
+* [cite_start]Developed a full-stack digital tourism platform using the **MERN stack**[cite: 19].
+* [cite_start]Integrated **Gemini AI** for real-time cultural knowledge retrieval[cite: 21].
 
 #### 🤖 [AI Resume Analyzer](https://github.com/abhaypratapsinghmmmut)
-* [cite_start]**Function**: Built an ATS resume matching platform featuring automated PDF parsing and semantic scoring[cite: 23].
-* [cite_start]**AI Engine**: Integrated **Cohere AI API** to process resumes for structured extraction and relevance scoring[cite: 24].
-* [cite_start]**Security**: Used **Firebase Authentication** with protected routes and session management[cite: 25].
+* [cite_start]Built an ATS platform with **Cohere AI** for semantic resume-to-job matching[cite: 23, 24].
+* [cite_start]Secured application using **Firebase Authentication**[cite: 25].
 
 ---
 
-### 📊 Dynamic Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaypratapsinghmmmut&theme=tokyo-night&area=true&hide_border=true" width="100%" />
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhaypratapsinghmmmut&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypratapsinghmmmut&theme=tokyonight" height="180"/>
 </p>
-
----
-
-### 🏅 Certifications & Milestones
-* [cite_start]🏆 **SIH 2024 & 2025**: Shortlisted among Top 45 teams from college[cite: 31].
-* [cite_start]🎓 **Microsoft Certified**: Introduction to Generative AI & Agents[cite: 46].
-* [cite_start]🎓 **Microsoft Certified**: Introduction to AI Concepts[cite: 47].
 
 ---
 
