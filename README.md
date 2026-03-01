@@ -11,18 +11,18 @@
     <img src="https://img.shields.io/github/followers/abhaypratapsinghmmmut?label=Followers&style=for-the-badge&color=0e75b6" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20FullStack%20%7C%20DSA-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-India-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Bareilly%2C%20UP-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
 # 🌈 Executive Summary
 
-- [cite_start]🎓 **Academic Excellence**: B.Tech in Computer Science & Engineering at **MMMUT** with a **8.59 CGPA**[cite: 8, 9].
-- [cite_start]🏆 **Hackathon Leadership**: Led a 6-member team for **Monastery360**, a digital heritage platform for Sikkim, during **Smart India Hackathon 2025**[cite: 18].
-- [cite_start]💡 **Algorithmic Expert**: Solved **900+ DSA problems** across LeetCode, CodeChef, and Codeforces[cite: 32].
-- [cite_start]📈 **Competitive Edge**: Achieved **Top 1.6%** finish in CodeChef Starters 221 (Rank 863)[cite: 28, 29].
-- [cite_start]🤖 **AI Integration**: Experienced in implementing **Gemini** and **Cohere AI** APIs for semantic matching and contextual generation[cite: 21, 24].
+- [cite_start]🎓 **B.Tech in Computer Science & Engineering** at **MMMUT** with a **8.59 CGPA**[cite: 8, 9].
+- [cite_start]🏆 **Hackathon Leadership**: Led a 6-member team for **Monastery360**, a digital heritage platform for Sikkim, during **Smart India Hackathon 2025**[cite: 13, 18].
+- [cite_start]💡 **Problem Solver**: Solved **900+ DSA problems** across LeetCode, GFG, CodeChef, and Codeforces[cite: 32].
+- [cite_start]📈 **Competitive Excellence**: Achieved **Top 1.6%** finish in CodeChef Starters 221 and ranked **863/37,000+** in Starters 208[cite: 28, 29].
+- [cite_start]🤖 **AI Specialist**: Experienced in integrating **Gemini** and **Cohere AI** APIs for semantic analysis and real-time knowledge retrieval[cite: 21, 24].
 
 ---
 
@@ -34,18 +34,26 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <p align="left">
-  <strong>⚡ Web & AI Technologies</strong><br>
+  <strong>⚡ Web Development & AI</strong><br>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>📊 Data Science & ML</strong><br>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="left">
@@ -56,21 +64,32 @@
   <img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
+<p align="left">
+  <strong>🛠 Tools & DevOps</strong><br>
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 Featured Projects
 
-#### 🏔️ Monastery360 (SIH 2025)
-* [cite_start]Integrated **Gemini API** for AI-driven contextual content and real-time knowledge retrieval[cite: 21].
-* [cite_start]Architected the backend using **Node.js** and **MongoDB** for secure routing and data management[cite: 20].
+#### 🏔️ [Monastery360](https://github.com/abhaypratapsinghmmmut) (Smart India Hackathon 2025)
+* [cite_start]**Lead Developer**: Led a 6-member team to build a digital tourism platform for Sikkim's heritage[cite: 18].
+* [cite_start]**Tech Stack**: MERN (MongoDB, Express, React, Node) + **Gemini API** for AI content generation[cite: 19, 21].
+* [cite_start]**Innovation**: Implemented secure RESTful APIs and real-time knowledge retrieval features[cite: 20, 21].
 
-#### 🤖 AI Resume Analyzer
-* [cite_start]Built a semantic matching platform using **Cohere AI API** to score resumes against job descriptions[cite: 24].
-* [cite_start]Implemented **Firebase Authentication** with protected routes for secure user session management[cite: 25].
+#### 🤖 [AI Resume Analyzer](https://github.com/abhaypratapsinghmmmut)
+* [cite_start]**Function**: Built an ATS resume matching platform featuring automated PDF parsing and semantic scoring[cite: 23].
+* [cite_start]**AI Engine**: Integrated **Cohere AI API** to process resumes for structured extraction and relevance scoring[cite: 24].
+* [cite_start]**Security**: Used **Firebase Authentication** with protected routes and session management[cite: 25].
 
 ---
 
-### 📊 Dynamic Coding Activity
+### 📊 Dynamic Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaypratapsinghmmmut&theme=tokyo-night&area=true&hide_border=true" width="100%" />
@@ -80,6 +99,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abhaypratapsinghmmmut&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypratapsinghmmmut&theme=tokyonight" height="180"/>
 </p>
+
+---
+
+### 🏅 Certifications & Milestones
+* [cite_start]🏆 **SIH 2024 & 2025**: Shortlisted among Top 45 teams from college[cite: 31].
+* [cite_start]🎓 **Microsoft Certified**: Introduction to Generative AI & Agents[cite: 46].
+* [cite_start]🎓 **Microsoft Certified**: Introduction to AI Concepts[cite: 47].
 
 ---
 
