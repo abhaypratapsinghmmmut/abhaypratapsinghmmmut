@@ -86,7 +86,9 @@ Driven by logic and efficiency, I have a deep passion for **Data Structures and 
 </p>
 
 🚀 Featured Projects
+
 🏔️ Monastery360 (SIH 2025)
+
 Developed full-stack digital tourism platform using MERN.
 
 Integrated Gemini AI for real-time cultural insights.
@@ -94,6 +96,7 @@ Integrated Gemini AI for real-time cultural insights.
 Designed secure REST APIs and led team collaboration.
 
 🤖 AI Resume Analyzer
+
 Built ATS-style resume matching system with Cohere AI for semantic scoring.
 
 Automated PDF parsing and secured using Firebase Authentication.
