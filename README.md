@@ -17,7 +17,7 @@
 
 ---
 
-# 🌈 About Me
+#  About Me
 
 I am a **Computer Science & Engineering** student at **Madan Mohan Malaviya University of Technology** with a strong academic foundation (CGPA: 8.59/10). I specialize in building scalable **MERN stack** applications and integrating advanced **AI workflows** to solve real-world challenges.
 
