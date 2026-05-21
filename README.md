@@ -43,8 +43,8 @@ Driven by logic and efficiency, I have a deep passion for **Data Structures and 
 ### 💡 Problem Solving Highlights
 
 + ⭐ 3★ Rated on CodeChef
-+ 🧠 900+ Total DSA Problems Solved
-+ 🔥 470+ Problems Solved on LeetCode
++ 🧠 950+ Total DSA Problems Solved
++ 🔥 500+ Problems Solved on LeetCode
 + 🚀 Actively Improving on Codeforces
 
 🧠 Technical Arsenal
