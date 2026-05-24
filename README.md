@@ -35,8 +35,8 @@ Driven by logic and efficiency, I have a deep passion for **Data Structures and 
 
 <p align="center">
   <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge&logo=codechef"/>
-  <img src="https://img.shields.io/badge/DSA%20Solved-900%2B-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LeetCode-450%2B-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/DSA%20Solved-950%2B-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-500%2B-orange?style=for-the-badge&logo=leetcode"/>
   <img src="https://img.shields.io/badge/Codeforces-Newbie-blue?style=for-the-badge&logo=codeforces"/>
 </p>
 
