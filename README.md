@@ -19,7 +19,7 @@
 
 #  About Me
 
-I am a **Computer Science & Engineering** student at **Madan Mohan Malaviya University of Technology** with a strong academic foundation (CGPA: 8.59/10). I specialize in building scalable **MERN stack** applications and integrating advanced **AI workflows** to solve real-world challenges.
+I am a **Computer Science & Engineering** student at **Madan Mohan Malaviya University of Technology** with a strong academic foundation (CGPA: 8.63/10). I specialize in building scalable **MERN stack** applications and integrating advanced **AI workflows** to solve real-world challenges.
 
 Driven by logic and efficiency, I have a deep passion for **Data Structures and Algorithms**, having solved **950+ problems** across platforms like LeetCode and CodeChef. I thrive in high-pressure environments, evidenced by leading teams to the finals of the **Smart India Hackathon** in both 2024 and 2025.
 
