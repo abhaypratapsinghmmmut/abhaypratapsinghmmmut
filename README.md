@@ -44,7 +44,7 @@ Driven by logic and efficiency, I have a deep passion for **Data Structures and 
 
 + ⭐ 3★ Rated on CodeChef
 + 🧠 950+ Total DSA Problems Solved
-+ 🔥 500+ Problems Solved on LeetCode
++ 🔥 550+ Problems Solved on LeetCode
 + 🚀 Actively Improving on Codeforces
 
 🧠 Technical Arsenal
@@ -103,6 +103,7 @@ Built ATS-style resume matching system with Cohere AI for semantic scoring.
 Automated PDF parsing and secured using Firebase Authentication.
 
 Deployed on Vercel & Render.
+
 
 
 
