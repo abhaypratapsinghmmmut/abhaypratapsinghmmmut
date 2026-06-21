@@ -1,128 +1,279 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Abhay%20Pratap%20Singh&fontSize=70&animation=fadeIn" />
-</h1>
+# 👋 Hi, I'm Abhay Pratap Singh
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-    font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;900%2B+DSA+Problems+Solved;Smart+India+Hackathon+Finalist;Future+SDE+%7C+AI+Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=250&section=header&text=Abhay%20Pratap%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+Enthusiast;950%2B+DSA+Problems+Solved;Smart+India+Hackathon+Finalist;Top+7%25+Globally+on+CodeChef;Future+Software+Engineer" />
 </p>
 
 <p align="center">
   <a href="https://github.com/abhaypratapsinghmmmut">
-    <img src="https://img.shields.io/github/followers/abhaypratapsinghmmmut?label=Followers&style=for-the-badge&color=0e75b6" />
+    <img src="https://img.shields.io/github/followers/abhaypratapsinghmmmut?style=for-the-badge&color=blue" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20FullStack%20%7C%20DSA-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Bareilly%2C%20UP-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-8.64%2F10-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CodeChef-3★%20(1604)-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2024%20%26%202025-orange?style=for-the-badge" />
 </p>
 
 ---
 
-#  About Me
+# 🚀 About Me
 
-I am a **Computer Science & Engineering** student at **Madan Mohan Malaviya University of Technology** with a strong academic foundation (CGPA: 8.64/10). I specialize in building scalable **MERN stack** applications and integrating advanced **AI workflows** to solve real-world challenges.
+🎓 Third Year B.Tech CSE Student at **Madan Mohan Malaviya University of Technology, Gorakhpur**
 
-Driven by logic and efficiency, I have a deep passion for **Data Structures and Algorithms**, having solved **950+ problems** across platforms like LeetCode and CodeChef. I thrive in high-pressure environments, evidenced by leading teams to the finals of the **Smart India Hackathon** in both 2024 and 2025.
+💻 Passionate Full Stack Developer focused on building scalable applications using the MERN Stack
 
-### 🚀 Key Highlights:
-* **Algorithmic Expert**: Achieved a **Top 1.6%** finish among 22,500+ participants in CodeChef Starters 221.
-* **Full-Stack Architect**: Led a 6-member team to develop **Monastery360**, a digital heritage platform utilizing MongoDB, Express.js, React.js, and Node.js.
-* **AI Enthusiast**: Engineered an **AI Resume Analyzer** using the **Cohere AI API** for semantic matching and **Firebase** for secure authentication.
-* **CS Fundamentalist**: Solid grasp of core concepts including **Operating Systems**, **DBMS**, and **Computer Networks**.
+🤖 Enthusiastic about AI, Generative AI, and Intelligent Software Systems
+
+🧠 Solved **950+ DSA Problems** across LeetCode, CodeChef, GeeksforGeeks and Codeforces
+
+🏆 **3★ CodeChef Programmer (Max Rating: 1604)**
+
+📈 Ranked among the **Top 7% Programmers Globally on CodeChef**
+
+🚀 Smart India Hackathon Finalist in **2024 & 2025**
+
+👨‍💼 Team Lead of a 6-member team at SIH 2025
 
 ---
 
-# 🏆 Competitive Programming & Problem Solving
+# 🏆 Achievements
+
+🥇 Top **1.6%** among 22,500+ participants in CodeChef Starters 221
+
+⭐ 3★ Rated CodeChef Programmer (1604)
+
+🔥 Solved 950+ DSA Problems
+
+🏅 Smart India Hackathon 2024 Finalist
+
+🏅 Smart India Hackathon 2025 Finalist
+
+👨‍💼 Led a 6-member team in SIH 2025
+
+📚 CGPA: 8.64/10
+
+🌍 Ranked among Top 7% Global CodeChef Users
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,mysql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏔️ Monastery360 — Smart India Hackathon 2025
+
+### 🌟 Highlights
+
+✅ Digitized 117+ Monasteries of Sikkim
+
+✅ Interactive 360° Virtual Tours
+
+✅ AI-powered Cultural Assistant
+
+✅ Integrated Google Maps
+
+✅ Led Team Heritage Horizon (6 Members)
+
+### 🛠 Tech Stack
+
+MongoDB • Express.js • React.js • Node.js • Google Maps API • Gemini AI
+
+🔗 Frontend:
+https://github.com/abhaypratapsinghmmmut/smartIndiaHackathonFrontend
+
+🔗 Backend:
+https://github.com/abhaypratapsinghmmmut/smartIndiaHackathonBackend
+
+---
+
+## 🤖 AI Resume Analyzer
+
+### 🌟 Highlights
+
+✅ ATS Score Prediction
+
+✅ Resume Parsing
+
+✅ Semantic Matching using Cohere AI
+
+✅ Firebase Authentication
+
+✅ PDF Analysis
+
+### 🛠 Tech Stack
+
+MongoDB • Express.js • React.js • Node.js • Cohere AI • Firebase
+
+---
+
+## 🎤 AI Interview Agent
+
+### 🌟 Highlights
+
+✅ AI-generated Interview Questions
+
+✅ Voice-based Interview System
+
+✅ AI Feedback & Evaluation
+
+✅ Confidence & Communication Analysis
+
+✅ PDF Report Generation
+
+### 🛠 Tech Stack
+
+MongoDB • Express.js • React.js • Node.js • OpenRouter AI
+
+🔗 Live Demo
+
+https://ai-interview-agent-sand.vercel.app/
+
+🔗 GitHub
+
+https://github.com/abhaypratapsinghmmmut/AI_Interview_Agent
+
+---
+
+# 🌱 Currently Building
+
+## 🌾 Precision Nitrogen Management System
+
+GeoSpatial Decision Support System for Precision Nitrogen Management using Satellite Imagery
+
+### Features
+
+✅ NDVI, GNDVI & NDRE Analysis
+
+✅ Sentinel-2 Satellite Imagery Processing
+
+✅ Google Earth Engine Integration
+
+✅ Machine Learning-Based Nitrogen Prediction
+
+✅ XGBoost Regression (R² = 0.85)
+
+### Technologies
+
+Python • Rasterio • Google Earth Engine • Machine Learning • GIS
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge&logo=codechef"/>
-  <img src="https://img.shields.io/badge/DSA%20Solved-950%2B-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LeetCode-500%2B-orange?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Codeforces-Newbie-blue?style=for-the-badge&logo=codeforces"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhaypratapsinghmmmut&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypratapsinghmmmut&theme=tokyonight" />
 </p>
 
-### 💡 Problem Solving Highlights
-
-+ ⭐ 3★ Rated on CodeChef
-+ 🧠 950+ Total DSA Problems Solved
-+ 🔥 550+ Problems Solved on LeetCode
-+ 🚀 Actively Improving on Codeforces
-
-🧠 Technical Arsenal
-<p align="left">
-<strong>👨‍💻 Languages & Databases</strong>
-
-
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaypratapsinghmmmut&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="left">
-<strong>⚡ Web Development & AI</strong>
+---
 
+# 🏆 GitHub Trophies
 
-
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge" />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abhaypratapsinghmmmut&theme=algolia&column=7" />
 </p>
 
-<p align="left">
-<strong>🛠 Tools & DevOps</strong>
+---
 
+# 📈 Contribution Graph
 
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaypratapsinghmmmut&theme=react-dark" />
 </p>
 
-🚀 Featured Projects
+---
 
-🏔️ Monastery360 (SIH 2025)
+# 🐍 Contribution Snake
 
-Developed full-stack digital tourism platform using MERN.
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
-Integrated Gemini AI for real-time cultural insights.
+---
 
-Designed secure REST APIs and led team collaboration.
+# 💡 Competitive Programming
 
-🤖 AI Resume Analyzer
+| Platform    | Achievement          |
+| ----------- | -------------------- |
+| CodeChef    | 3★ (Max Rating 1604) |
+| LeetCode    | 550+ Problems        |
+| Total DSA   | 950+ Problems        |
+| Codeforces  | Active Competitor    |
+| Global Rank | Top 7% on CodeChef   |
 
-Built ATS-style resume matching system with Cohere AI for semantic scoring.
+---
 
-Automated PDF parsing and secured using Firebase Authentication.
+# 📜 Certifications
 
-Deployed on Vercel & Render.
+🏅 Introduction to Generative AI & Agents — Microsoft
 
+🏅 Introduction to AI Concepts — Microsoft
 
+🏅 Smart India Hackathon 2025 Participation Certificate
 
+---
 
+# 🌐 Connect With Me
 
+<p align="center">
 
-
-🌐 Let's Connect
-<p align="left">
 <a href="mailto:abhaypratapsinghmmmut@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/abhay-pratap-singh-ab4938294">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/abhaypratapsinghmmmut">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abhaypratapsinghmmmut&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
+💙 Thanks for visiting my profile! Let's build something amazing together.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
 </p>
