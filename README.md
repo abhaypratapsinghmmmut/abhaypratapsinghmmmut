@@ -47,9 +47,7 @@
 
 🔥 Solved 950+ DSA Problems
 
-🏅 Smart India Hackathon 2024 Finalist
-
-🏅 Smart India Hackathon 2025 Finalist
+🏅 Smart India Hackathon 2024 and 2025 
 
 👨‍💼 Led a 6-member team in SIH 2025
 
