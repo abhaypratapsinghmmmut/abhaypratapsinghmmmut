@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+Enthusiast;950%2B+DSA+Problems+Solved;Smart+India+Hackathon+Finalist;Top+7%25+Globally+on+CodeChef;Future+Software+Engineer" />
 </p>
 
